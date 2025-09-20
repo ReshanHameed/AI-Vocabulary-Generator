@@ -1,0 +1,5 @@
+{
+  "name": "VocabGenius: AI Vocabulary Generator",
+  "description": "An AI-powered web application that generates a list of relevant vocabulary words, complete with definitions and example sentences, based on a user-provided topic.",
+  "requestFramePermissions": []
+}
